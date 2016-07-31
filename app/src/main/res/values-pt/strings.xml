@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Provérbios do Dia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_splash2">Splash2</string>
+    <string name="share_chooser">Compartilhar imagem usando...</string>
+    <string name="btnNew">Novo Provérbio</string>
+    <string name="btnShare">Compartilhar</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="share_progress_dialog_title">Carregando</string>
+    <string name="share_progress_dialog_message">Por favor, aguarde...</string>
+
+</resources>
